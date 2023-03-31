@@ -15,6 +15,9 @@
       "lib": [
         "es2022",
         "dom"
+      ],
+      "types": [
+        "@angular/localize"
       ]
     },
       "files": [
